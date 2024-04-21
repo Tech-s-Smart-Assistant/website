@@ -11,7 +11,7 @@ Version: 0.1
 @font-face {
     font-family: 'Vazir';
     src:
-         url('/fonts/Vazir-Regular.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+         url('../fonts/Vazir-Regular.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
   }
 .cryptobit_nav_manu {
     background: transparent;
